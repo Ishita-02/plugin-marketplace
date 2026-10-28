@@ -817,8 +817,8 @@
       }
     },
     "pstack": {
-      "sha": "519d36aa98955bf680db01bcde5fdfba686dc901",
-      "version": "0.15.34",
+      "sha": "c742dd61706fbacc1b95f1a20b7b988cf096ce6c",
+      "version": "0.15.36",
       "components": {
         "agents": [
           {
@@ -889,7 +889,7 @@
           },
           {
             "name": "ketchup-video",
-            "description": "Catch the user up like /ketchup, with a short silent video of slides for what happened and the waiting calls as text un…"
+            "description": "Catch the user up like /ketchup, with a short subtitled video of slides for what happened and the waiting calls as text…"
           },
           {
             "name": "maintain-formal-verification-skill",
@@ -941,7 +941,7 @@
           },
           {
             "name": "principle-explain-the-number",
-            "description": "Apply before you trust, report, or act on a number you measured: a speedup, a regression, a throughput, a latency, or a…"
+            "description": "Apply before you measure, and before you trust, report, or act on a number you measured: a speedup, a regression, a thr…"
           },
           {
             "name": "principle-fix-root-causes",
