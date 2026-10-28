@@ -116,7 +116,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/axiomhq/skills.git",
-        "sha": "001b3a883fddd8170003aa12c236205fb9eecad6"
+        "sha": "7f0806af8ca1e368683bcc1f2d1ff7de805f3005"
       },
       "homepage": "https://github.com/axiomhq/skills",
       "keywords": ["axiom"],
